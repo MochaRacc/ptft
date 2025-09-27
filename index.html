@@ -55,6 +55,15 @@
               <img src="./img/PTfT-c.svg" alt="PTfT Logo" width="250px"/>
             </a>
         </div>
+   <script>
+    // 1 in 60 chance for rebrand logo
+    const isRebrand = Math.floor(Math.random() * 60) === 0; // 0 to 59
+    const logo = document.getElementById('ptft-logo');
+
+    if (isRebrand) {
+      logo.src = './rebrand/PTfT-C.svg'; // <-- Rebrand logo
+    }
+  </script>       
       </div>
       <div class="nsw-header__menu">
         <button type="button" class="js-open-nav" aria-expanded="false" aria-controls="main-nav">
