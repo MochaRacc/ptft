@@ -3986,10 +3986,10 @@ body {
   /* rtl:end:remove */
 }
 .nsw-container {
-  max-width: var(--nsw-container-width);
+  max-width: 15rem;
   padding-left: 1rem;
   padding-right: 1rem;
-  margin-left: auto;
+  margin-left: 5rem;
   margin-right: auto;
 }
 .nsw-container--flush {
