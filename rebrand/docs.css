@@ -9617,7 +9617,7 @@ a:active {
 }
 
 .nsw-header {
-  background-color: var(--nsw-white);
+  background-color: var(--nsw-brand-accent);
   position: relative;
   border-bottom: solid 1px var(--nsw-grey-04);
 }
