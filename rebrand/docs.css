@@ -3986,10 +3986,10 @@ body {
   /* rtl:end:remove */
 }
 .nsw-container {
-  max-width: 105rem;
+  max-width: var(--nsw-container-width);
   padding-left: 1rem;
   padding-right: 1rem;
-  margin-left: 5rem;
+  margin-left: auto;
   margin-right: auto;
 }
 .nsw-container--flush {
@@ -9617,7 +9617,7 @@ a:active {
 }
 
 .nsw-header {
-  background-color: var(--nsw-brand-dark);
+  background-color: var(--nsw-white);
   position: relative;
   border-bottom: solid 1px var(--nsw-grey-04);
 }
@@ -9652,7 +9652,7 @@ a:active {
 .nsw-header__search a {
   font-weight: var(--nsw-font-bold);
   border-radius: var(--nsw-border-radius);
-  color: var(--nsw-brand-accent-light);
+  color: var(--nsw-brand-dark);
   width: 3rem;
   height: 3rem;
   background: none;
@@ -10303,7 +10303,7 @@ a:active {
   margin: 0;
 }
 .hero-search__wrapper {
-  padding: 2rem 3rem;
+  padding: 2rem 1rem;
   background-color: var(--nsw-off-white);
   border-bottom: solid 4px var(--nsw-brand-accent);
 }
@@ -10315,13 +10315,13 @@ a:active {
   }
 }
 .hero-search__content {
-  max-width: 45.75rem;
-  margin: 0 1px;
-  text-align: left;
+  max-width: 43.75rem;
+  margin: 0 auto;
+  text-align: center;
 }
 .hero-search__suggested ul {
   list-style: none;
-  text-align: left;
+  text-align: center;
   margin-top: -0.5rem;
   padding: 0;
 }
