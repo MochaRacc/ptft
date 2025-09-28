@@ -9652,7 +9652,7 @@ a:active {
 .nsw-header__search a {
   font-weight: var(--nsw-font-bold);
   border-radius: var(--nsw-border-radius);
-  color: var(--nsw-brand-dark);
+  color: var(--nsw-aboriginal-palette-white);
   width: 3rem;
   height: 3rem;
   background: none;
