@@ -5684,7 +5684,7 @@ a:active {
 /* stylelint-disable string-quotes */
 /* stylelint-disable sh-waqar/declaration-use-variable */
 .nsw-button {
-  border-radius: var(--nsw-border-radius);
+  border-radius: 50rem;
   font-weight: var(--nsw-font-bold);
   border: solid 2px transparent;
   white-space: normal;
