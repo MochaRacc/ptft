@@ -245,7 +245,7 @@ body {
   --nsw-brand-dark: #4c26a1;
   --nsw-brand-light: #bfaaec;
   --nsw-brand-supplementary: #7e4aee;
-  --nsw-brand-accent: #d7153a;
+  --nsw-brand-accent: #4c26a1;
   --nsw-brand-accent-light: #ffe6ea;
   --nsw-black: #000000;
   --nsw-grey-01: #22272b;
@@ -3986,7 +3986,7 @@ body {
   /* rtl:end:remove */
 }
 .nsw-container {
-  max-width: 15rem;
+  max-width: 55rem;
   padding-left: 1rem;
   padding-right: 1rem;
   margin-left: 5rem;
@@ -10303,7 +10303,7 @@ a:active {
   margin: 0;
 }
 .hero-search__wrapper {
-  padding: 2rem 1rem;
+  padding: 2rem 3rem;
   background-color: var(--nsw-off-white);
   border-bottom: solid 4px var(--nsw-brand-accent);
 }
