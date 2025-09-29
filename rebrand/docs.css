@@ -3999,6 +3999,13 @@ body {
   padding-right: 0;
 }
 
+.nsw-disruption-grid {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -0.5rem;
+  margin-right: -0.5rem;
+}
+
 .nsw-grid {
   display: flex;
   margin-left: -0.5rem;
