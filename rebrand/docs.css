@@ -350,11 +350,11 @@ body {
   --nsw-line-height-xxl-mobile: 1.25;
   --nsw-line-height-xxl-desktop: 1.25;
     /* Status Network */
-  --nsw-status-good: #008a07;
-  --nsw-status-minor: #f0dc26;
-  --nsw-status-major: #c95000;
-  --nsw-status-suspended: #1a1a1a;
-  --nsw-status-works: #1da7d1;
+  --nsw-disruption-good: #008a07;
+  --nsw-disruption-minor: #f0dc26;
+  --nsw-disruption-major: #c95000;
+  --nsw-disruption-suspended: #1a1a1a;
+  --nsw-disruption-works: #1da7d1;
   /* Borders */
   --nsw-border-width: 1px;
   --nsw-border-style: solid;
@@ -11799,6 +11799,15 @@ a:active {
   }
 }
 
+.nsw-disruption-label {
+  padding: 6px;
+  border: solid 1px var(--nsw-off-white);
+  background-color: var(--nsw-off-white);
+  border-radius: 1.5rem;
+  color: var(--nsw-text-dark);
+  display: inline-block;
+}
+
 .nsw-status-label {
   padding: 0.125rem 1rem;
   border: solid 1px var(--nsw-off-white);
@@ -11838,33 +11847,33 @@ a:active {
   color: var(--nsw-white);
 }
 
-.nsw-status-label--good {
-  border-color: var(--nsw-status-good);
-  background-color: var(--nsw-status-good);
+.nsw-disruption-label--good {
+  border-color: var(--nsw-disruption-good);
+  background-color: var(--nsw-disruption-good);
   color: var(--nsw-white);
 }
 
-.nsw-status-label--minor {
-  border-color: var(--nsw-status-minor);
-  background-color: var(--nsw-status-minor);
+.nsw-disruption-label--minor {
+  border-color: var(--nsw-disruption-minor);
+  background-color: var(--nsw-disruption-minor);
   color: var(--nsw-black);
 }
 
-.nsw-status-label--major {
-  border-color: var(--nsw-status-major);
-  background-color: var(--nsw-status-major);
+.nsw-disruption-label--major {
+  border-color: var(--nsw-disruption-major);
+  background-color: var(--nsw-disruption-major);
   color: var(--nsw-white);
 }
 
-.nsw-status-label--suspended {
-  border-color: var(--nsw-status-suspended);
-  background-color: var(--nsw-status-suspended);
+.nsw-disruption-label--suspended {
+  border-color: var(--nsw-disruption-suspended);
+  background-color: var(--nsw-disruption-suspended);
   color: var(--nsw-white);
 }
 
-.nsw-status-label--works {
-  border-color: var(--nsw-status-works);
-  background-color: var(--nsw-status-works);
+.nsw-disruption-label--works {
+  border-color: var(--nsw-disruption-works);
+  background-color: var(--nsw-disruption-works);
   color: var(--nsw-white);
 }
 
