@@ -5175,7 +5175,7 @@ h6,
 
 * + h1,
 * + .nsw-h1 {
-  margin-top: 4rem;
+  margin-top: 1rem;
 }
 
 * + h2,
@@ -10310,7 +10310,7 @@ a:active {
 }
 @media (min-width: 48rem) {
   .hero-search {
-    padding: 2rem 1rem;
+    padding: 5rem 1rem;
   }
 }
 .hero-search__form {
