@@ -4967,6 +4967,7 @@ small,
 .nsw-small {
   font-size: var(--nsw-font-size-xs-mobile);
   line-height: var(--nsw-line-height-xs-mobile);
+  font-weight: normal;
 }
 @media (min-width: 62rem) {
   small,
