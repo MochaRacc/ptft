@@ -351,10 +351,12 @@ body {
   --nsw-line-height-xxl-desktop: 1.25;
     /* Status Network */
   --nsw-disruption-good: #008a07;
-  --nsw-disruption-minor: #f0dc26;
+  --nsw-disruption-minor: #ffda0b;
   --nsw-disruption-major: #c95000;
   --nsw-disruption-suspended: #1a1a1a;
-  --nsw-disruption-works: #1da7d1;
+  --nsw-disruption-works: #ff8e0d;
+  --nsw-disruption-travel: #3199ba;
+  --nsw-disruption-cancelled: #a331ba;
   /* Borders */
   --nsw-border-width: 1px;
   --nsw-border-style: solid;
@@ -11874,6 +11876,18 @@ a:active {
 .nsw-disruption-label--works {
   border-color: var(--nsw-disruption-works);
   background-color: var(--nsw-disruption-works);
+  color: var(--nsw-white);
+}
+
+.nsw-disruption-label--travel {
+  border-color: var(--nsw-disruption-travel);
+  background-color: var(--nsw-disruption-travel);
+  color: var(--nsw-white);
+}
+
+.nsw-disruption-label--cancelled {
+  border-color: var(--nsw-disruption-cancelled);
+  background-color: var(--nsw-disruption-cancelled);
   color: var(--nsw-white);
 }
 
