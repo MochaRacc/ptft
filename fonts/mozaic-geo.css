@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicGEO-ExtraBlack.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicGEO-ExtraBlack.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicGEO-ExtraBlack.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicGEO-ExtraBlack.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicGEO-ExtraBlack.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicGEO-ExtraBlack.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -10,9 +10,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicGEO-Bold.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicGEO-Bold.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicGEO-Bold.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicGEO-Bold.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicGEO-Bold.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicGEO-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -20,9 +20,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicGEO-Black.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicGEO-Black.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicGEO-Black.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicGEO-Black.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicGEO-Black.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicGEO-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -30,9 +30,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicGEO-ExtraBold.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicGEO-ExtraBold.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicGEO-ExtraBold.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicGEO-ExtraBold.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicGEO-ExtraBold.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicGEO-ExtraBold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -40,9 +40,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicGEO-ExtraLight.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicGEO-ExtraLight.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicGEO-ExtraLight.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicGEO-ExtraLight.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicGEO-ExtraLight.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicGEO-ExtraLight.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -50,9 +50,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicGEO-Light.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicGEO-Light.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicGEO-Light.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicGEO-Light.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicGEO-Light.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicGEO-Light.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
     font-display: swap;
@@ -60,9 +60,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicGEO-Medium.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicGEO-Medium.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicGEO-Medium.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicGEO-Medium.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicGEO-Medium.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicGEO-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -70,9 +70,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicGEO-SemiBold.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicGEO-SemiBold.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicGEO-SemiBold.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicGEO-SemiBold.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicGEO-SemiBold.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicGEO-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -80,9 +80,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicGEO-Regular.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicGEO-Regular.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicGEO-Regular.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicGEO-Regular.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicGEO-Regular.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicGEO-Regular.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -90,9 +90,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicGEO-Thin.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicGEO-Thin.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicGEO-Thin.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicGEO-Thin.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicGEO-Thin.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicGEO-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -100,9 +100,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicItalic-Bold.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicItalic-Bold.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicItalic-Bold.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicItalic-Bold.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicItalic-Bold.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicItalic-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -110,9 +110,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicItalic-Black.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicItalic-Black.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicItalic-Black.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicItalic-Black.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicItalic-Black.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicItalic-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -120,9 +120,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicItalic-ExtraBold.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicItalic-ExtraBold.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicItalic-ExtraBold.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicItalic-ExtraBold.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicItalic-ExtraBold.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicItalic-ExtraBold.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -130,9 +130,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicItalic-ExtraBlack.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicItalic-ExtraBlack.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicItalic-ExtraBlack.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicItalic-ExtraBlack.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicItalic-ExtraBlack.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicItalic-ExtraBlack.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -140,9 +140,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicItalic-ExtraLight.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicItalic-ExtraLight.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicItalic-ExtraLight.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicItalic-ExtraLight.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicItalic-ExtraLight.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicItalic-ExtraLight.ttf') format('truetype');
     font-weight: 100;
     font-style: italic;
     font-display: swap;
@@ -150,9 +150,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicItalic-Light.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicItalic-Light.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicItalic-Light.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicItalic-Light.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicItalic-Light.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicItalic-Light.ttf') format('truetype');
     font-weight: 200;
     font-style: italic;
     font-display: swap;
@@ -160,9 +160,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicItalic-Medium.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicItalic-Medium.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicItalic-Medium.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicItalic-Medium.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicItalic-Medium.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicItalic-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -170,9 +170,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicItalic-SemiBold.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicItalic-SemiBold.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicItalic-SemiBold.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicItalic-SemiBold.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicItalic-SemiBold.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicItalic-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
@@ -180,9 +180,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicItalic-Thin.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicItalic-Thin.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicItalic-Thin.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicItalic-Thin.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicItalic-Thin.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicItalic-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: italic;
     font-display: swap;
@@ -190,9 +190,9 @@
 
 @font-face {
     font-family: 'Mozaic Geo';
-    src: url('fonts/mozaic-geo/MozaicItalic-Regular.woff2') format('woff2'),
-        url('fonts/mozaic-geo/MozaicItalic-Regular.woff') format('woff'),
-        url('fonts/mozaic-geo/MozaicItalic-Regular.ttf') format('truetype');
+    src: url('/fonts/mozaic-geo/MozaicItalic-Regular.woff2') format('woff2'),
+        url('/fonts/mozaic-geo/MozaicItalic-Regular.woff') format('woff'),
+        url('/fonts/mozaic-geo/MozaicItalic-Regular.ttf') format('truetype');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
